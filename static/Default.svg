@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Default.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="54.374in" height="56.155in" viewBox="0 0 3914.93 4043.16" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st2">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Страница-1</title>
+		<g id="group9-1" transform="translate(0,-20)">
+			<title>Пользователь</title>
+			<g id="shape10-2" transform="translate(997.567,4.54747E-13)">
+				<title>Лист.10</title>
+				<path d="M1452.55 520.48 A486.7 500.109 -180 1 0 479.15 520.48 A486.7 500.109 -180 1 0 1452.55 520.48 ZM1523.77 1155.63
+							 L396.02 1155.63 C177.64 1155.63 0 1338.17 0 1562.57 L0 2981.95 L308.62 2981.95 L308.62 2156.02 L411.72
+							 2156.02 L411.72 4043.16 L914.28 4043.16 L914.28 3199.66 C914.28 3170.39 937.37 3146.71 965.81 3146.71
+							 C994.25 3146.71 1017.34 3170.39 1017.34 3199.66 L1017.34 4043.16 L1549.06 4043.16 L1549.06 2152.86 L1652.12
+							 2152.86 L1652.12 2981.95 L1919.8 2981.95 L1919.8 1562.57 C1919.8 1338.21 1742.16 1155.63 1523.77 1155.63
+							 Z" class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>

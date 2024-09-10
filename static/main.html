@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Устройства</title>
+    <script src="script.js"></script>
+<!--    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.2/FileSaver.min.js"></script>-->
+<!--    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js"></script>-->
+    <link rel="stylesheet" href="styleMain.css">
+</head>
+<body>
+    <div id = "settings-modal" class="settings-modal">
+        <div class="contents-modal">
+            <span class="close" id="close-settings">&times</span>
+            <h2> Настройки</h2>
+            <div class ="settings-item">
+                <label for="refresh-interval">Частота обновления(секунд):</label>
+                <input style="margin-top: 10px" type="number" id ="refresh-interval" name="refresh-interval" value="30" min="1">
+            </div>
+            <button id="apply-settings" class="apply-bottom">Применить</button>
+        </div>
+    </div>
+
+    <div style = "display: grid; flex-direction: row; flex-wrap: wrap; margin-top: 50px; margin-bottom: 50px;" id ="header">
+        <div style="justify-content: left; text-align: left">
+            <img src="/GearWheel.png" alt ="Настройки" id = "settings-icon" class="settings-icon" style="width: 20px; height: 20px;cursor: pointer;" title="Изменить частоту обновлений"/>
+        </div>
+        <div style="justify-content: center; text-align: center">
+            <h1 style = "margin: 0px;">Устройства</h1>
+        </div>
+    </div>
+
+    <div id="device-container" class="devices-container">
+        <div id="device-list" class="device-list"></div>
+    </div>
+
+    <div id="sidebar" class="sidebar">
+        <div id="device-details-content" class="modal-content"></div>
+        <button id="close-button" class="close-button">Закрыть</button>
+        <button id ="save-button" class="save-button">Сохранить данные</button>
+    </div>
+
+</body>
+</html>

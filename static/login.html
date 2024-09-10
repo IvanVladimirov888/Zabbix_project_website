@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Система мониторинга - Авторизация</title>
+    <link rel="stylesheet" href="styleLogin.css">
+</head>
+<body>
+<div class="login-panel">
+    <h1>Авторизация</h1>
+    <form id ="login-form" class = "login-form" action="/login" method="post">
+        <input type="text" id="username" name="username" placeholder="Имя пользователя"><br>
+        <input type="password" id="password" name="password" placeholder="Пароль"><br>
+        <button type="submit" id="login-button">Войти</button>
+    </form>
+    <!--<p>Нет аккаунта? <a href="register.html">Зарегистрироваться</a></p>-->
+</div>
+<script src="auth.js"></script>
+</body>
+</html>

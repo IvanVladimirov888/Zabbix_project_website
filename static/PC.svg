@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG PC.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="54.3844in" height="56.2207in"
+		viewBox="0 0 3915.68 4047.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.bg {fill:#00b050;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#cafff8;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:#cafff8;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st4 {fill:#cafff8;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group11-1" transform="translate(0.375,-20)" v:mID="11" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="AssetNumber" v:lbl="Инвентарный номер" v:prompt="" v:type="0" v:format="" v:sortKey="Asset"
+						v:invis="false" v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="SerialNumber" v:lbl="Серийный номер" v:prompt="" v:type="0" v:format="" v:sortKey="Asset"
+						v:invis="false" v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="Location" v:lbl="Расположение" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+						v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="Building" v:lbl="Здание" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+						v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="Room" v:lbl="Комната" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+						v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="Производитель" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment"
+						v:invis="false" v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="ProductNumber" v:lbl="Номер продукта" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment"
+						v:invis="false" v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="PartNumber" v:lbl="Номер изделия" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment"
+						v:invis="false" v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="ProductDescription" v:lbl="Описание продукта" v:prompt="" v:type="0" v:format=""
+						v:sortKey="Equipment" v:invis="false" v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="NetworkName" v:lbl="Сетевое имя" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+						v:invis="false" v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="IPAddress" v:lbl="IP-адрес" v:prompt="" v:type="0" v:format="" v:sortKey="Network" v:invis="false"
+						v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="SubnetMask" v:lbl="Маска подсети" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+						v:invis="false" v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="AdminInterface" v:lbl="Административный интерфейс" v:prompt="" v:type="0" v:format=""
+						v:sortKey="Network" v:invis="false" v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="NumberofPorts" v:lbl="Число портов" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+						v:invis="false" v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="CommunityString" v:lbl="Строка сообщества" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+						v:invis="false" v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="NetworkDescription" v:lbl="Описание сети" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+						v:invis="false" v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="MACAddress" v:lbl="MAC-адрес" v:prompt="" v:type="0" v:format="" v:sortKey="Network" v:invis="false"
+						v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="CPU" v:lbl="ЦП" v:prompt="" v:type="0" v:format="" v:sortKey="Workstation" v:invis="false"
+						v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="Memory" v:lbl="Память" v:prompt="" v:type="0" v:format="" v:sortKey="Workstation" v:invis="false"
+						v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="OperatingSystem" v:lbl="Операционная система" v:prompt="" v:type="0" v:format=""
+						v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="HardDriveSize" v:lbl="Емкость жесткого диска" v:prompt="" v:type="0" v:format=""
+						v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="Department" v:lbl="Отдел" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1049" v:cal="0"/>
+				<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true"
+						v:ask="false" v:langID="1049" v:cal="0" v:val="VT4(Оборудование)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true"
+						v:ask="false" v:langID="1049" v:cal="0" v:val="VT4(Компьютер)"/>
+				<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true"
+						v:ask="false" v:langID="1049" v:cal="0" v:val="VT4(Рабочий стол)"/>
+				<v:cp v:nameU="BelongsTo" v:lbl="Принадлежит" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true"
+						v:ask="false" v:langID="1049" v:cal="0"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShapeClass" v:prompt="" v:val="VT0(5):26"/>
+				<v:ud v:nameU="SolSH" v:prompt="" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+				<v:ud v:nameU="visLegendShape" v:prompt="" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<title>ПК</title>
+			<g id="shape12-2" v:mID="12" v:groupContext="shape" transform="translate(0,-268.626)">
+				<title>Лист.12</title>
+				<path d="M2652.03 3058.7 L2652.03 3398.74 L2851.93 3398.74 L3040.7 3642.24 L3914.93 3642.24 L3914.93 557.25 L2652.03
+							 557.25 L2652.03 999.79 L3193.72 999.79 L3193.72 3058.7 L2652.03 3058.7 ZM3193.72 999.79 L195.21 999.79
+							 L195.21 3058.7 L3193.72 3058.7 L3193.72 999.79 ZM3355.17 4047.89 L2851.93 3398.74 L503.28 3398.74 L0
+							 4047.89 L3355.17 4047.89 ZM1941.16 3058.7 L1413.97 3058.7 L1413.97 3398.74 L1941.16 3398.74 L1941.16
+							 3058.7 Z" class="bg"/>
+			</g>
+			<g id="shape13-4" v:mID="13" v:groupContext="shape" transform="translate(389.626,-1443.29)">
+				<title>Лист.13</title>
+				<v:userDefs>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(1)"/>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(#00b050)"/>
+				</v:userDefs>
+				<path d="M2613.93 2378.64 L0 2378.64 L0 4047.89 L2613.93 4047.89 L2613.93 2378.64 Z" class="st2"/>
+			</g>
+			<g id="shape14-6" v:mID="14" v:groupContext="shape" transform="translate(456.607,-402.62)">
+				<title>Лист.14</title>
+				<v:userDefs>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(1)"/>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(#00b050)"/>
+				</v:userDefs>
+				<path d="M2952.56 1036.58 L3222.97 1036.58 L3222.97 928.38 L2952.56 928.38 L2952.56 1036.58 ZM2952.56 1229.78 L3222.97
+							 1229.78 L3222.97 1121.58 L2952.56 1121.58 L2952.56 1229.78 ZM2291.09 3796.14 L2142.06 3796.14 L2225.47
+							 3891.52 L2386.15 3891.52 L2291.09 3796.14 ZM2122.47 3626.78 L1994.04 3626.78 L2083.77 3729.37 L2224.71
+							 3729.37 L2122.47 3626.78 ZM2061.78 3796.14 L1912.64 3796.14 L1978.14 3891.52 L2138.9 3891.52 L2061.78
+							 3796.14 ZM1924.94 3626.78 L1796.46 3626.78 L1866.85 3729.37 L2007.86 3729.37 L1924.94 3626.78 ZM1832.4
+							 3796.14 L1683.21 3796.14 L1730.84 3891.52 L1891.69 3891.52 L1832.4 3796.14 ZM1727.72 3626.78 L1599.21
+							 3626.78 L1650.64 3731.51 L1791.9 3731.51 L1727.72 3626.78 ZM1603.05 3796.14 L1453.91 3796.14 L1483.59
+							 3891.52 L1644.43 3891.52 L1603.05 3796.14 ZM1532.87 3633.96 L1403.47 3633.96 L1433.8 3731.51 L1575.09
+							 3731.51 L1532.87 3633.96 ZM1373.71 3796.14 L1224.56 3796.14 L1236.34 3891.52 L1397.14 3891.52 L1373.71
+							 3796.14 ZM1335.93 3642.03 L1205.57 3642.03 L1217.35 3737.53 L1359.32 3737.53 L1335.93 3642.03 ZM1135.43
+							 3642.03 L1005.11 3642.03 L998.94 3737.53 L1140.92 3737.53 L1135.43 3642.03 ZM1144.32 3796.14 L995.22
+							 3796.14 L989.05 3891.52 L1149.85 3891.52 L1144.32 3796.14 ZM935.01 3642.03 L804.65 3642.03 L780.61 3737.53
+							 L922.59 3737.53 L935.01 3642.03 ZM914.98 3796.14 L765.83 3796.14 L741.8 3891.52 L902.6 3891.52 L914.98
+							 3796.14 ZM1732.93 3952.47 L680.78 3952.47 L653.54 4047.89 L1778.52 4047.89 L1732.93 3952.47 ZM734.54
+							 3642.03 L604.19 3642.03 L562.25 3737.53 L704.22 3737.53 L734.54 3642.03 ZM685.63 3796.14 L536.45 3796.14
+							 L494.5 3891.52 L655.31 3891.52 L685.63 3796.14 ZM534.08 3642.03 L403.77 3642.03 L343.88 3737.53 L485.85
+							 3737.53 L534.08 3642.03 ZM456.29 3796.14 L307.14 3796.14 L247.25 3891.52 L408.01 3891.52 L456.29 3796.14
+							 ZM333.62 3642.03 L203.35 3642.03 L125.51 3737.53 L267.48 3737.53 L333.62 3642.03 ZM226.9 3796.14 L77.8
+							 3796.14 L0 3891.52 L160.76 3891.52 L226.9 3796.14 Z" class="st3"/>
+			</g>
+		</g>
+	</g>
+</svg>
